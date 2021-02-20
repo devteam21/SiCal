@@ -1,0 +1,13 @@
+{
+  "appId": "sical.atdevaldiakbar.biz.id",
+  "appName": "SICAL",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
