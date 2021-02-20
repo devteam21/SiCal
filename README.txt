@@ -6,3 +6,5 @@ SICAL singkatan dari Simple Calculator, adalah aplikasi buatan penulis dengan tu
 
 Demo apps and don't forget to subscribe:
 https://www.youtube.com/watch?v=8PTq_-DCa9I
+
+MIT License
