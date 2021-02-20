@@ -8,3 +8,6 @@ Demo apps and don't forget to subscribe:
 https://www.youtube.com/watch?v=8PTq_-DCa9I
 
 MIT License
+
+# Install
+https://stackoverflow.com/questions/57975889/how-to-run-an-existing-node-app-from-github
